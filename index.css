@@ -1,0 +1,49 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;       
+}
+
+.cabecalho{
+padding: 50px;
+background-color: #102A43;
+display: flex;
+justify-content: space-between;
+color: aliceblue;
+gap: 10px;
+}
+
+.lista1{
+    flex-direction: row;
+    display: flex;
+    list-style: none;
+    padding: 10px;
+    gap: 50px;
+    font-size: 24px;
+}
+
+.name-navbar{
+    font-size: 26px;
+    font-style: 700px;
+}
+
+#section1{
+background-color: #102A43;
+height: 350px;   
+justify-content: center;
+max-width: 1100px;
+padding: 100px;
+}
+
+.texto2{
+    font-size: 14px;
+    color: #F5A623;
+    font-style: 700px;
+}
+
+p{
+    color: white;
+    font-size: 40px;
+    font-style: 700px;
+    width: 70px;
+}
